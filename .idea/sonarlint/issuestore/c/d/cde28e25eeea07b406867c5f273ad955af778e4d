@@ -1,0 +1,18 @@
+
+H
+java:S1066"/Merge this if statement with the enclosing one.(ìíŸâøÿÿÿÿ
+O	java:S110"<This class has 9 parents which is greater than 5 authorized.(Ì§‡á
+s
+java:S1450"ZRemove the "tvForgetPwd" field and declare it as a local variable in the relevant methods.(‰áŸÿÿÿÿÿ
+l	java:S116"YRename this field "tv_error_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éİ’
+o	java:S116"WRename this field "tv_error_pwd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¤ºùúÿÿÿÿ
+O
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ
+D
+java:S1172"+Remove this unused method parameter "view".(§ş›ßúÿÿÿÿ
+D
+java:S1172"+Remove this unused method parameter "view".(–ïîıÿÿÿÿ
+D
+java:S1172"+Remove this unused method parameter "view".(Ü£½şÿÿÿÿ
+H
+java:S1068"/Remove this unused "tvForgetPwd" private field.(‰áŸÿÿÿÿÿ

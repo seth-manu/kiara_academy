@@ -1,0 +1,8 @@
+
+C
+java:S1066"/Merge this if statement with the enclosing one.(ß¸é
+q
+java:S1450"XRemove the "videoName" field and declare it as a local variable in the relevant methods.(â¸³»ûÿÿÿÿ
+j	java:S116"WRename this field "REQUEST_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€çÒ
+F
+java:S1068"-Remove this unused "videoName" private field.(â¸³»ûÿÿÿÿ

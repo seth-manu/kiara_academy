@@ -1,0 +1,38 @@
+
+O
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ
+F
+java:S1172"+Remove this unused method parameter "view".(ˆÄñŠ8ª™Ì‡/
+;
+java:S1068"'Remove this unused "TAG" private field.(¿…Á×
+T	java:S110"<This class has 9 parents which is greater than 5 authorized.(õÅËÅøÿÿÿÿ
+F
+java:S1068"-Remove this unused "mRetrofit" private field.(·¯“ªûÿÿÿÿ
+g
+java:S1450"SRemove the "part" field and declare it as a local variable in the relevant methods.(‹ô€Ó
+C
+java:S1066"/Merge this if statement with the enclosing one.(çƒé
+t
+java:S1450"[Remove the "arrayAdapter" field and declare it as a local variable in the relevant methods.(†“ğòÿÿÿÿÿ
+D
+java:S1172"+Remove this unused method parameter "view".(å™Úûÿÿÿÿ
+J
+java:S1874"1Remove this use of "getBitmap"; it is deprecated.(õñ¸øşÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(–¯­8ª™Ì‡/
+l	java:S116"YRename this field "CAMERA_REQUEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŞ‘œ
+`
+java:S2147"ECombine this catch with the one at line 392, which has the same body.(ï­£Ä8ª™Ì‡/
+H
+java:S1185"(Remove this method to simply inherit it.(œƒƒ©ùÿÿÿÿ8ª™Ì‡/
+H
+java:S3740"/Provide the parametrized type for this generic.(è–‡İøÿÿÿÿ
+<
+java:S1068"(Remove this unused "part" private field.(‹ô€Ó
+V
+java:S2259"BA "NullPointerException" could be thrown; "data" is nullable here.(éûæ
+H
+java:S3740"/Provide the parametrized type for this generic.(†“ğòÿÿÿÿÿ
+O
+java:S1066"/Merge this if statement with the enclosing one.(ûÚ³şÿÿÿÿ8ª™Ì‡/
+a	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8ª™Ì‡/

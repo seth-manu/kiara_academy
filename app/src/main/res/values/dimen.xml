@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normalTextSize">14sp</dimen>
+    <dimen name="mediumTextSize">16sp</dimen>
+    <dimen name="largeTextSize">18sp</dimen>
+    <dimen name="headingTextSize">22sp</dimen>
+    <dimen name="titleMediumTextSize">25sp</dimen>
+    <dimen name="titleLargeTextSize">28sp</dimen>
+    <dimen name="marginAll">10sp</dimen>
+    <dimen name="paddingAll">20sp</dimen>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Kiara Academy</string>
+    <string name="str_top_recommendation">Top Recommendation</string>
+    <string name="most_viewed">Most Viewed</string>
+    <string name="see_more">See More</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_start_learning">Start Learning</string>
+    <string name="str_buy">BUY</string>
+    <string name="str_something_went_wrong">Something went wrong.</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_okay">OK</string>
+    <string name="str_enable_mobile_data">Please enable mobile data.</string>
+    <string name="str_dismiss">Dismiss</string>
+    <string name="empty_title"></string>
+    <string name="str_permission_required">Permission required</string>
+    <string name="str_camera">Camera</string>
+    <string name="str_image_confirmation">The photo you have clicked will now be uploaded to the server. Click Okay to proceed or Cancel to retry.</string>
+    <string name="str_ok">Yes</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="please_all_details_to_create_new_account">Please fill all details to create new account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="select_class">Select Class</string>
+    <string name="password">Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="by_creating_an_account_you_are_agreeing_to_our_terms_and_conditions">By creating an account, you are agreeing to our Terms and Conditions</string>
+    <string name="glad_to_see_you">Glad to see you!</string>
+    <string name="login_to_access_to_kiara_academy">Login to access to Kiara Academy</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="str_next">NEXT</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? <font color="#00F">Sign Up</font></string>
+    <string name="key_id">rzp_test_MmWNp2SjgCEjRV</string>
+    <string name="key_secret">mhj8xmVxWL4DAk8MlapanmdS</string>
+</resources>
